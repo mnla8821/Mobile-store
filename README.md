@@ -26,4 +26,4 @@ Task make you add items to your bag and remove from it  .
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![screenshot](src/Assets/swiper.png)
+![screenshot](src/Assets/card.png)
