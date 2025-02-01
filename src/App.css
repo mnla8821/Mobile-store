@@ -1,0 +1,42 @@
+.head-line {
+  text-align: center;
+  padding-top: 100px;
+  text-transform: uppercase;
+}
+
+.cart-total {
+  text-transform: capitalize;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.cart-total span {
+  background: blueviolet;
+  display: inline-block;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 10px;
+  /* color: var(--white); */
+}
+
+.btn-hipster {
+  color: var(--primary-500);
+  background: var(--primary-200);
+}
+
+.clear-btn {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.box1,
+.box2,
+.box3 {
+  width: 200px;
+  height: 200px;
+
+}

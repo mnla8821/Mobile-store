@@ -1,0 +1,25 @@
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.head a {
+    font-size: 30px;
+}
+
+.bag {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+}
+
+.bag p {
+    font-size: 40px;
+    color: blueviolet;
+}
+
+nav {
+    background-color: violet;
+}
